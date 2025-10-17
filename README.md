@@ -1,2 +1,3 @@
 # Global-Distributed-Farming-systems
-Best innovative agricultural problem.
+Best innovative agricultural solution 
+.
